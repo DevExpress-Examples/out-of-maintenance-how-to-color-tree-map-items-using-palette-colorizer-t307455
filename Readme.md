@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TreeMapPaletteColorizerSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeMapPaletteColorizerSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to color tree map items using Palette Colorizer
 
 
